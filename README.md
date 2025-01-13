@@ -1,6 +1,6 @@
 ## AHKHelper
 
-一个由 AutoHotKey 编写的脚本。
+一个由 AutoHotKey V2 编写的脚本。
 
 ## 有什么功能？
 
