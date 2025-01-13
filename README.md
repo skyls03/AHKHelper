@@ -19,4 +19,4 @@
   git clone https://github.com/ListenV/AHKHelper.git
   ```
 
-- 也可以右键 `AHKHelper.ahk` 编译为exe
+- 也可以用 Ahk2Exe 将 `AHKHelper.ahk` 编译为 exe
